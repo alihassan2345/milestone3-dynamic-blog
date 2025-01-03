@@ -31,8 +31,8 @@ export default function AlertBanner() {
       </div>
       <nav className="flex gap-7 text-md font-bold m-4">
         <Link href='/' className="hover:text-red-500 ">Home</Link>
-        <Link href='/about' className="hover:text-red-500 ">About</Link>
-        <Link href='/contact' className="hover:text-red-500 ">Contact</Link>
+        <Link href='#' className="hover:text-red-500 ">About</Link>
+        <Link href='#' className="hover:text-red-500 ">Contact</Link>
       </nav>
     </div>
   );
